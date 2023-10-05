@@ -1,0 +1,26 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "backend ecommerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-git25/ecommercebackend.git"
+  },
+  "author": "Abhishek Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-git25/ecommercebackend/issues"
+  },
+  "homepage": "https://github.com/abhishek-git25/ecommercebackend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "mongoose-auto-increment": "^5.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
